@@ -1,0 +1,46 @@
+<p><span style="font-size: 16px;">{% if subscriber.first_name != blank %}<br>  Hello {{ subscriber.first_name }},<br>{% else %}<br>  Hey there dear reader,<br>{% endif %}<br></span>
+</p>
+<p><span style="font-size: 16px;">My intro text Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor.</span>
+</p>
+<hr>
+<h1 style="text-align: center;">Book Title
+</h1>
+<h2 style="text-align: center;">Free To Read on Kindle Unlimited or Just $0.99
+</h2>
+<p style="text-align: center;"><img src="https://convertkit.s3.amazonaws.com/assets/pictures/20356/1519044/content_email-book-cover-holder.jpg" "="">
+</p>
+<p>Maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+</p>
+<p>Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper.
+</p>
+<p style="text-align: center;"><strong><a href="https://www.amazon.com/dp/B07H7FZ197" class="button" target="_blank">READ THE KINDLE BOOK NOW</a></strong>
+</p>
+<p style="text-align: center;"><strong><a href="https://www.amazon.com/dp/1983361445" class="button" target="_blank">READ THE PAPERBACK BOOK NOW</a></strong>
+</p>
+<hr>
+<h1 style="font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; text-align: center;">Book Title</h1>
+<h2 style="font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; text-align: center;">Free To Read on Kindle Unlimited or Just $0.99</h2>
+<p style="text-align: center;"><img src="https://convertkit.s3.amazonaws.com/assets/pictures/20356/1519044/content_email-book-cover-holder.jpg">
+</p>
+<p>Maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+</p>
+<p>Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper.
+</p>
+<p style="text-align: center;"><strong><a href="https://www.amazon.com/dp/B07H7FZ197" class="button" target="_blank">READ THE KINDLE BOOK NOW</a></strong>
+</p>
+<p style="text-align: center;"><strong><a href="https://www.amazon.com/dp/1983361445" class="button" target="_blank">READ THE PAPERBACK BOOK NOW</a></strong>
+</p>
+<hr>
+<h1 style="font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; text-align: center;">Book Title</h1>
+<h2 style="font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; text-align: center;">Free To Read on Kindle Unlimited or Just $0.99</h2>
+<p style="text-align: center;"><img src="https://convertkit.s3.amazonaws.com/assets/pictures/20356/1519044/content_email-book-cover-holder.jpg">
+</p>
+<p>Maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+</p>
+<p>Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper.
+</p>
+<p style="text-align: center;"><strong><a href="https://www.amazon.com/dp/B07H7FZ197" class="button" target="_blank">READ THE KINDLE BOOK NOW</a></strong>
+</p>
+<p style="text-align: center;"><strong><a href="https://www.amazon.com/dp/1983361445" class="button" target="_blank">READ THE PAPERBACK BOOK NOW</a></strong>
+</p>
+<hr>
